@@ -1,0 +1,4 @@
+The things that I've learned in this lesson is mainly 3 things:
+1. How to navigate git as a whole for checking file directories, names, etc. 
+2. How to use gitbash for terminal commands (push, add, pull, commit, status, etc.).
+3. How to use github alongside gitbash to initialize/create repositories online and locally. 
